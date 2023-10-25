@@ -1,8 +1,8 @@
 # TVHelper-on-Replit
 在 Replit 部署 TVHelper
 
-<a href="https://repl.it/github/sxbai/TVHelper-on-replit">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/sxbai/TVHelper-on-replit" style="height: 40px; width: 190px;" />
+<a href="https://repl.it/github/gitbochs/TVHelper-on-replit">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/gitbochs/TVHelper-on-replit" style="height: 40px; width: 190px;" />
 </a>
 
 ------------------------------
@@ -12,5 +12,5 @@
 
 一键搭建脚本 (环境选择`Bash` 或 `Blank Repl`)
 ```
-bash <(curl -s https://raw.githubusercontent.com/sxbai/TVHelper-on-replit/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/gitbochs/TVHelper-on-replit/master/install.sh)
 ```
